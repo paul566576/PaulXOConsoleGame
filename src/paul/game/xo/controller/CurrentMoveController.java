@@ -1,8 +1,8 @@
-package io.hexlet.xo.controller;
+package paul.game.xo.controller;
 
-import io.hexlet.xo.model.Field;
-import io.hexlet.xo.model.Figure;
-import io.hexlet.xo.model.exception.InvalidPointException;
+import paul.game.xo.model.Field;
+import paul.game.xo.model.Figure;
+import paul.game.xo.model.exception.InvalidPointException;
 
 import java.awt.*;
 

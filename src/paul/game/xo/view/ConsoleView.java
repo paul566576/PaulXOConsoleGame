@@ -1,13 +1,13 @@
-package io.hexlet.xo.view;
+package paul.game.xo.view;
 
-import io.hexlet.xo.controller.CurrentMoveController;
-import io.hexlet.xo.controller.MoveController;
-import io.hexlet.xo.controller.WinnerController;
-import io.hexlet.xo.model.Field;
-import io.hexlet.xo.model.Figure;
-import io.hexlet.xo.model.Game;
-import io.hexlet.xo.model.exception.AlreadyOccupiedException;
-import io.hexlet.xo.model.exception.InvalidPointException;
+import paul.game.xo.controller.CurrentMoveController;
+import paul.game.xo.controller.MoveController;
+import paul.game.xo.controller.WinnerController;
+import paul.game.xo.model.Field;
+import paul.game.xo.model.Figure;
+import paul.game.xo.model.Game;
+import paul.game.xo.model.exception.AlreadyOccupiedException;
+import paul.game.xo.model.exception.InvalidPointException;
 
 import java.awt.*;
 import java.util.InputMismatchException;

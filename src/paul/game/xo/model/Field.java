@@ -1,6 +1,6 @@
-package io.hexlet.xo.model;
+package paul.game.xo.model;
 
-import io.hexlet.xo.model.exception.InvalidPointException;
+import paul.game.xo.model.exception.InvalidPointException;
 
 import java.awt.*;
 

@@ -1,4 +1,4 @@
-package io.hexlet.xo.model.exception;
+package paul.game.xo.model.exception;
 
 public abstract class XOException extends Exception {
 }

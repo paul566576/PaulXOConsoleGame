@@ -1,12 +1,12 @@
-package io.hexlet.xo;
+package paul.game.xo;
 
-import io.hexlet.xo.model.Field;
-import io.hexlet.xo.model.Figure;
-import io.hexlet.xo.model.Game;
-import io.hexlet.xo.model.Player;
-import io.hexlet.xo.model.exception.AlreadyOccupiedException;
-import io.hexlet.xo.model.exception.InvalidPointException;
-import io.hexlet.xo.view.ConsoleView;
+import paul.game.xo.model.Field;
+import paul.game.xo.model.Figure;
+import paul.game.xo.model.Game;
+import paul.game.xo.model.Player;
+import paul.game.xo.model.exception.AlreadyOccupiedException;
+import paul.game.xo.model.exception.InvalidPointException;
+import paul.game.xo.view.ConsoleView;
 
 import java.util.Scanner;
 
